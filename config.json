@@ -1,0 +1,64 @@
+{
+  "name": "",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4efb719e797c54b3c58e5ae061d29d53",
+      "css": "droplet",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "996a74b0be8a2c192e0780f45eaecf72",
+      "css": "seedling",
+      "code": 62680,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "fbede3c5584282a0e9b131926dff71da",
+      "css": "cube",
+      "code": 61874,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "19e7b342a5e6bd0cd86de6d6208486a4",
+      "css": "leaf",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "af95ef0ddda80a78828c62d386506433",
+      "css": "cubes",
+      "code": 61875,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3a26448b711645ba1abfc86c1a6e2f30",
+      "css": "coffee",
+      "code": 61684,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "870637388a6b45eb9c51647cec2c5a00",
+      "css": "poop",
+      "code": 59398,
+      "src": "linearicons"
+    },
+    {
+      "uid": "429c0a4a7c5aba2f8a894f98b48529b3",
+      "css": "football",
+      "code": 59416,
+      "src": "maki"
+    },
+    {
+      "uid": "0b55fe7a62b6a64765295b6d5e842414",
+      "css": "flowers",
+      "code": 59854,
+      "src": "rpgawesome"
+    }
+  ]
+}
